@@ -1,0 +1,32 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Inicio",
+            "href": "/"
+        },
+        {
+            "title": "Nosotros",
+            "href": "/about"
+        },
+        {
+            "title": "Proyectos",
+            "href": "/projects"
+        },
+        {
+            "title": "Habilidades",
+            "href": "/skills"
+        },
+       
+        {
+            "title": "Experiencia",
+            "href": "/experience"
+        }
+        
+
+    ]
+}
